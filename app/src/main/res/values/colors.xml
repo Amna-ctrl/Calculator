@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="softpurple">#A19FFF</color>
+    <color name="softpink">#F1C1FF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textcolor">#F3F0FA</color>
+    <color name="gridcol">#ECBFFF</color>
+    <color name="black">#000000</color>
+</resources>

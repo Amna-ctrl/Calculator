@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Calculator" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/softpurple</item>
+        <item name="colorPrimaryVariant">@color/softpurple</item>
+        <item name="colorPrimaryDark">@color/softpurple</item>
+        <item name="colorOnPrimaryContainer">@color/softpurple</item>
+        <item name="android:textColorPrimary">@color/textcolor</item>
+        <item name="colorOnPrimary">@color/textcolor</item>
+        <item name="android:navigationBarColor">@color/softpink</item>
+
+        <item name="colorSecondary">@color/softpink</item>
+        <item name="colorSecondaryVariant">@color/softpink</item>
+        <item name="colorOnSecondary">@color/softpink</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Calculator" parent="Base.Theme.Calculator" />
+</resources>
