@@ -1,4 +1,3 @@
-# Calculator
 # Calculator App
 
 ## Overview
@@ -26,4 +25,4 @@ To run this project, ensure you have the following installed:
 ## Installation and Setup
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/[your-username]/[your-repo-name].git
+   git clone https://github.com/Amna-ctrl/Calculator.git
